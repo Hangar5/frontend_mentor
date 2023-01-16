@@ -86,7 +86,7 @@ main{
     font-family: 'Monserrat';
 }
 
-#card img {
+#card .card-img{
     height: 470px;
     width: 300px;
     border-top-left-radius:8px ;
